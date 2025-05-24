@@ -1,0 +1,5 @@
+{
+  "name": "Payslip Generator Pro",
+  "description": "An interactive React web application to generate employee payslips and export them to PDF. Allows selection of employee, month, and year, with data dynamically adjusted.",
+  "requestFramePermissions": []
+}
